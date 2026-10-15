@@ -1,0 +1,18 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset (pesa mucho, se descarga con el código)
+flower_photos/
+*.tgz
+
+# Sistema
+.DS_Store
+Thumbs.db

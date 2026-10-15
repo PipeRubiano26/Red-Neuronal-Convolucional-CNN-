@@ -1,0 +1,9 @@
+# Si al abrir el modelo sale un error de versiones, fija aquí la MISMA versión
+# de tensorflow que imprime la última celda del notebook (ej: tensorflow==2.19.0)
+tensorflow>=2.16
+streamlit>=1.35
+numpy
+pandas
+pillow
+matplotlib
+scikit-learn
